@@ -6,3 +6,5 @@ Now has a working email link so the user can send me real emails. Linked GitHub 
 Gave some info on a few projects and the links to the deployed projects and the GitHub repo.
 
 I kept the original layout, as my personal favorite for stuff like this is simplicity.
+
+Link to Live Page: https://jarrettheller.github.io/Better-Portfolio/
